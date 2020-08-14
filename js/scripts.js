@@ -1,4 +1,9 @@
-(function($) {
+/*!
+    * Start Bootstrap - SB Admin v6.0.1 (https://startbootstrap.com/templates/sb-admin)
+    * Copyright 2013-2020 Start Bootstrap
+    * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-sb-admin/blob/master/LICENSE)
+    */
+    (function($) {
     "use strict";
 
     // Add active state to sidbar nav links
